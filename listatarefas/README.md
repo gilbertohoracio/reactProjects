@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Esta aplicação implementa uma Lista de Tarefas de processsos diversos (No exemplo inicial ela controla as tarefas a serem executadas em um deploy)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
