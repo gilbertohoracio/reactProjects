@@ -1,16 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Router } from './router';
+import { FormProvider } from './contexts/FormContext';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Iniciando o projeto no Git
-        </p>
-      </header>
-    </div>
+    <FormProvider>
+      <Router />
+    </FormProvider>
   );
 }
 
