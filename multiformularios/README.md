@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Crie com npx create-react-app multiformularios --template typescript
+Instale: yarn add styled-components && yarn add -D @types/styled-components
+Instale: yarn add react-router-dom
+Instale: yarn add -D @types/react-router-dom
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
+    
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
